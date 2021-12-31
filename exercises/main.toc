@@ -1,0 +1,296 @@
+\contentsline {section}{\numberline {36}Uge}{17}{section.36}%
+\contentsline {subsection}{\numberline {36.1}Konvertér følgende tal i 2-talsystemet (binær repræsentation) til 10- talsystemet}{17}{subsection.36.1}%
+\contentsline {subsection}{\numberline {36.2}Konvertér følgende tal i 3-talsystemet til 10-talsystemet}{17}{subsection.36.2}%
+\contentsline {subsection}{\numberline {36.3}Konvertér følgende hexadecimale udtryk, set som tal i 16-talsystemet, til tal i 10-talsystemet}{17}{subsection.36.3}%
+\contentsline {subsection}{\numberline {36.4}Konvertér følgende hexadecimale udtryk til bitstrenge}{17}{subsection.36.4}%
+\contentsline {subsection}{\numberline {36.5}Konvertér følgende bitstrenge til hexadecimale udtryk}{17}{subsection.36.5}%
+\contentsline {subsection}{\numberline {36.6}Lav følgende additioner i 2-talsystemet (binær repræsentation)}{18}{subsection.36.6}%
+\contentsline {subsection}{\numberline {36.7}Konvertér følgende tal i 10-talsystemet til 2-talsystemet (binær repræsentation)}{18}{subsection.36.7}%
+\contentsline {subsection}{\numberline {36.8}Konvertér følgende tal i 10-talsystemet til 3-talsystemet}{18}{subsection.36.8}%
+\contentsline {subsection}{\numberline {36.9}Konvertér følgende tal i two’s complement (8 bits) til 10-talsystemet}{18}{subsection.36.9}%
+\contentsline {subsection}{\numberline {36.10}Vend fortegnet på følgende tal i two’s complement (8 bits)}{18}{subsection.36.10}%
+\contentsline {subsection}{\numberline {36.11}Konvertér følgende tal i 2-talsystemet med fast decimalpunkt til 10 talsystemet}{19}{subsection.36.11}%
+\contentsline {subsection}{\numberline {36.12}Konvertér følgende tal i 2-talsystemet fra fast decimalpunkt til flyden- de decimalpunkt (med notationen fra slides for 8 bits flydende decimalpunktstal)}{19}{subsection.36.12}%
+\contentsline {section}{\numberline {37}Uge}{19}{section.37}%
+\contentsline {subsection}{\numberline {37.1} Konvertér følgende tal i 2-talsystemet (binær repræsentation) til 10-talsystemet}{19}{subsection.37.1}%
+\contentsline {subsection}{\numberline {37.2}Konvertér følgende tal i 3-talsystemet til 10-talsystemet}{19}{subsection.37.2}%
+\contentsline {subsection}{\numberline {37.3}Konvertér følgende hexadecimale udtryk, set som tal i 16-talsystemet,til tal i 10-talsystemet}{19}{subsection.37.3}%
+\contentsline {subsection}{\numberline {37.4}Konvertér følgende hexadecimale udtryk til bitstrenge}{20}{subsection.37.4}%
+\contentsline {subsection}{\numberline {37.5}Konvertér følgende bitstreng til hexadecimalt udtryk}{20}{subsection.37.5}%
+\contentsline {subsection}{\numberline {37.6}Lav følgende additioner i 2-talsystemet (binær repræsentation)}{20}{subsection.37.6}%
+\contentsline {subsection}{\numberline {37.7}Konvertér følgende tal i 10-talsystemet til 2-talsystemet (binær repræsentation)}{20}{subsection.37.7}%
+\contentsline {subsection}{\numberline {37.8}Konvertér følgende tal i 10-talsystemet til 3-talsystemet}{20}{subsection.37.8}%
+\contentsline {subsection}{\numberline {37.9}Konvertér følgende tal i two’s complement (8 bits) til 10-talsysteme}{20}{subsection.37.9}%
+\contentsline {subsection}{\numberline {37.10}Vend fortegnet på følgende tal i two’s complement (8 bits)}{21}{subsection.37.10}%
+\contentsline {subsection}{\numberline {37.11}Konvertér følgende tal i 10-talsystemet til 8 bits two’s complement}{21}{subsection.37.11}%
+\contentsline {subsection}{\numberline {37.12}På slides om repræsentation af tal er der angivet en metode til at skifte fortegn på heltal repræsenteret i two's complement. Her er en anden metode. Inverter alle bits i tallet og læg derefter 1 til tallet. Find et argument for, at de to metoder gør det samme. Forklar argumentet klarest muligt for hinanden}{21}{subsection.37.12}%
+\contentsline {subsection}{\numberline {37.13}Konvertér følgende tal i 2-talsystemet med fast decimalpunkt til 10-talsystemet}{21}{subsection.37.13}%
+\contentsline {subsection}{\numberline {37.14}Konvertér følgende tal i 2-talsystemet fra fast decimalpunkt til flydende decimalpunkt - 8 bits notation}{21}{subsection.37.14}%
+\contentsline {subsection}{\numberline {37.15}Konvertér følgende tal i flydende decimalpunkt (med notationen fra slides for 8 bits flydende decimalpunktstal) til 2-talsystemet med fast decimalpunkt, og derefter til 10-talssystemet}{22}{subsection.37.15}%
+\contentsline {section}{\numberline {38}Uge}{22}{section.38}%
+\contentsline {subsection}{\numberline {38.1}Hvad er output af kredsløbet nedenfor?}{22}{subsection.38.1}%
+\contentsline {subsection}{\numberline {38.2}Hvad er værdien af nedenstående Boolske udtryk hvis (x1 , x2 , x3 ) er lig (0, 1, 0)? Opskriv et kredsløb svarende til udtrykket. $(x_1\land x_2)\oplus (x_3\lor (\neg x_1))$}{22}{subsection.38.2}%
+\contentsline {subsection}{\numberline {38.3}Opskriv et Boolsk udtryk om svarer til nedenstående kredsløb. For hvilke værdier af x, y og z vil kredsløbet kredsløbet nedenfor give output 1? Opskriv hele tabellen for kredsløbet.}{23}{subsection.38.3}%
+\contentsline {subsection}{\numberline {38.4}Lav et Boolsk udtryk med NOT, AND, OR og tre input variable, som har nedenstående tabel. Tegn også et tilsvarende kredsløb med tre inputs.}{23}{subsection.38.4}%
+\contentsline {subsection}{\numberline {38.5}Vis hvordan man kan lave en OR-gate ved hjælp af AND-gates og NOT-gates.(Til forelæsningen blev det vist, at alle boolske funktioner kan implementeres med AND-, OR-, og NOT-gates. Opgaven her viser, at AND- og NOT-gates er nok.)}{24}{subsection.38.5}%
+\contentsline {subsection}{\numberline {38.6}Vis hvordan man kan lave en NOT-gate ved hjælp af en NAND-gate. Vis derefter hvordan man kan lave en AND-gate ved hjælp af NAND-gates. (Sammen med opgaven ovenfor viser dette, at NAND-gates er nok til at implementere alle boolske funktioner.)}{24}{subsection.38.6}%
+\contentsline {subsection}{\numberline {38.7}[Repetition fra forelæsningen.] Opskriv den korrekte tabel for funktionen Resultat(x1 ,x2 ,x3 ) fra slides om gates.}{25}{subsection.38.7}%
+\contentsline {subsection}{\numberline {38.8}Opskriv tabellen for nedenstående kredsløb. Hvilken enkelt-gate svarerdet til?}{25}{subsection.38.8}%
+\contentsline {subsection}{\numberline {38.9}Hvad er output af kredsløbet nedenfor?}{26}{subsection.38.9}%
+\contentsline {subsection}{\numberline {38.10}Opskriv et Boolsk udtryk som svarer til samme kredsløb. Opskriv hele tabellen for kredsløbet.}{26}{subsection.38.10}%
+\contentsline {subsection}{\numberline {38.11}Lav et Boolsk udtryk med NOT, AND, OR og tre input variable, som har nedenstående tabel. Tegn også et tilsvarende kredsløb med tre inputs.}{27}{subsection.38.11}%
+\contentsline {subsection}{\numberline {38.12}[Repetition fra forelæsningen.] Opskriv den korrekte tabel for funktionen Mente(x1,x2,x3) fra slides om gates.}{27}{subsection.38.12}%
+\contentsline {subsection}{\numberline {38.13}Repetér hvordan I lærte i folkeskolen at gange flercifrede tal i 10-talsystemet sammen (på papir, uden lommeregner). Lav f.eks. regnestykkerne $123\cdot 432$ og $321\cdot 765$. Overvej hvorfor det virker (husk definitionen af 10-talsystemet, se evt. slides). Brug derefter samme princip til at lave en gangemetode i 2-talsystemet. Lav f.eks. regnestykkerne $111_2 \cdot 101_2$ og $10110_2 \cdot 11110_2$ på denne måde. Check at du har regnet rigtigt ved at konverterer de fire tal samt de to resultater fra 2-talsystemet til 10-talsystemet og derefter gange sammen på lommeregner der. Forklar metoden, og argumentet for at den fungerer, klarest muligt for hinanden}{28}{subsection.38.13}%
+\contentsline {subsection}{\numberline {38.14}Hvad er den hexadecimale notation for kommandoerne til at gøre følgende (husk at numre på registre og RAM celler angives hexadecimalt)}{28}{subsection.38.14}%
+\contentsline {subsubsection}{\numberline {38.14.a}Kopiere indholdet af register C til RAM celle 0A.}{28}{subsubsection.38.14.1}%
+\contentsline {subsubsection}{\numberline {38.14.b}Lægge bitmønstret 10110011 ind i register 2.}{29}{subsubsection.38.14.2}%
+\contentsline {subsubsection}{\numberline {38.14.c}Addere register 3 og 4, og lægge resultatet i register 5.}{29}{subsubsection.38.14.3}%
+\contentsline {subsubsection}{\numberline {38.14.d}Lave bit-wise XOR af register B og C.}{29}{subsubsection.38.14.4}%
+\contentsline {subsubsection}{\numberline {38.14.e}Hoppe til instruktionen i RAM celle 14 hvis indholdet i register C er større $(>)$ end indholdet i register 0.}{29}{subsubsection.38.14.5}%
+\contentsline {subsection}{\numberline {38.15}Forklar følgende kode}{29}{subsection.38.15}%
+\contentsline {subsection}{\numberline {38.16}Lav et program som læser to heltal fra RAM cellerne 10 og 12, finder deres sum, og skriver resultatet i RAM celle 14. [Hint: det er en let forandring af det første eksempelprogram.]}{29}{subsection.38.16}%
+\contentsline {subsection}{\numberline {38.17}Lav et program som læser et heltal k fra RAM celle 18 og som skriver summen $1 + 2 + 3 + . . . + (k - 1)$ i RAM celle E1. [Hint: det er en let forandring af det andet eksempelprogram.] Da man med 8 bits heltal i two’s complement kun kan repræsentere heltal op til 127, skal vi have $k \leq 16$ for at kunne repræsentere resultatet.}{30}{subsection.38.17}%
+\contentsline {subsection}{\numberline {38.18}Lav et program som læser to heltal fra RAM celle 16 og 18, og som skriver det største af dem i celle 14.}{30}{subsection.38.18}%
+\contentsline {subsection}{\numberline {38.19}Lav et program som læser et heltal k fra RAM celle 20 og som skriver bitmønsteret 11111111 (hexadecimalt: FF) i RAM celle 22 hvis k er forskellig fra 0, og skriver bitmønsteret 01010101 (hexadecimalt: 55) i RAM celle 22 hvis k er lig 0}{31}{subsection.38.19}%
+\contentsline {subsection}{\numberline {38.20}Lav et program som læser et bitmønster fra RAM celle 10, laver de første fire bits om til 0’er, og skriver svaret i RAM celle 12. Hint: det kan gøres med bit-wise AND med et bestemt bitmønster (hvilket?).}{31}{subsection.38.20}%
+\contentsline {subsection}{\numberline {38.21}Lav et program som læser to bitmønster x og y fra RAM cellerne 20 og 22, laver et nyt bitmønster, som består af de første fire bits fra x efterfulgt at de sidste fire bits fra y, og skriver svaret i RAM celle 22. Hint: brug ideen fra sidste opgave to gange, samt bit-wise OR}{32}{subsection.38.21}%
+\contentsline {subsection}{\numberline {38.22}Lav et program som læser to bitmønster x og y fra RAM cellerne 20 og 22, laver et nyt bitmønster, som består af de sidste fire bits fra y efterfulgt at de første fire bits fra x, og skriver svaret i RAM celle 22. Hint: brug ideen fra sidste opgave, samt cyklisk rotation af bits.}{32}{subsection.38.22}%
+\contentsline {section}{\numberline {39}Uge}{33}{section.39}%
+\contentsline {subsection}{\numberline {39.1}Løs opgaven fra sidste side i slides om CPUer og maskinkode, dvs. lav et program som tæller ned i stedet for op. Mere præcist, lav et program som efter tur skriver tallene 6, 5, 4, 3,. . . , 0 (dvs. indhold 06, 05, 04, 03,. . . , 00) i RAM celle 1E, hvis RAM celle 18 indeholder 07 til at starte med.}{33}{subsection.39.1}%
+\contentsline {subsection}{\numberline {39.2}I opgave II.12 fra uge 36/37 blev beskrevet følgende alternative metode til at skifte fortegn på heltal repræsenteret i two’s complement:Invertér alle bits i tallet og læg derefter 1 til tallet. Implementer denne metode i et program. Mere præcist, lav et program som læser et heltal x (i two’s complement) fra RAM celle 20 og skriver tallet $-x$ (i two’s complement) i celle 22. [Hint: bits i x kan inverteres ved bitwise XOR af x med et bestemt bitmønster (hvilket?).]}{34}{subsection.39.2}%
+\contentsline {subsection}{\numberline {39.3}Multiplikation}{34}{subsection.39.3}%
+\contentsline {subsection}{\numberline {39.1}Er følgende en algoritme}{35}{subsection.39.1}%
+\contentsline {subsection}{\numberline {39.2}Betragt listen $L=[1,2,3,4,5,6,...,20]$. I nedenst[ende spørgsmål tæller vi sammenligninger som involverer elementer i listen.}{35}{subsection.39.2}%
+\contentsline {subsubsection}{\numberline {39.2.a}Hvor mange sammenligninger foretages der med SequentialSearch($L$, 7)?}{35}{subsubsection.39.2.1}%
+\contentsline {subsubsection}{\numberline {39.2.b}Hvor mange sammenligninger foretages der med BinarySearch($L$, 7)?}{35}{subsubsection.39.2.2}%
+\contentsline {subsubsection}{\numberline {39.2.c}Antag nu, at $L$ indeholder 10.000 elementer. Hvor mange sammenligninger foretager man i værste tilfælde med en sekventiel søgning i $L$?}{36}{subsubsection.39.2.3}%
+\contentsline {subsubsection}{\numberline {39.2.d}Hvor mange sammenligninger foretager man i værste tilfælde med en binær søgning i $L$?}{36}{subsubsection.39.2.4}%
+\contentsline {subsection}{\numberline {39.3}Udfyld de manglende felter (undtagen dem i øverste række) i tabellen på side 11 i slides fra Lenes forelæsning}{36}{subsection.39.3}%
+\contentsline {subsection}{\numberline {39.4}Hvilken af følgende udsagn er sande?}{36}{subsection.39.4}%
+\contentsline {subsubsection}{\numberline {39.4.a}$n\in O(n)$}{36}{subsubsection.39.4.1}%
+\contentsline {subsubsection}{\numberline {39.4.b}$2n+5\in O(n)$}{36}{subsubsection.39.4.2}%
+\contentsline {subsubsection}{\numberline {39.4.c}$\sqrt {n}-\qopname \relax o{log}(n)\in O(n)$}{36}{subsubsection.39.4.3}%
+\contentsline {subsubsection}{\numberline {39.4.d}$(\qopname \relax o{log}(n))^2\in O(n\qopname \relax o{log}n)$}{37}{subsubsection.39.4.4}%
+\contentsline {subsubsection}{\numberline {39.4.e}$n^2 \in O(n)$}{37}{subsubsection.39.4.5}%
+\contentsline {subsubsection}{\numberline {39.4.f}$n\in O(n^2)$}{37}{subsubsection.39.4.6}%
+\contentsline {subsubsection}{\numberline {39.4.g}$n\qopname \relax o{log}(n)\in O(n^2)$}{37}{subsubsection.39.4.7}%
+\contentsline {subsubsection}{\numberline {39.4.h}$n\qopname \relax o{log}(n)\in O(n)$}{37}{subsubsection.39.4.8}%
+\contentsline {subsubsection}{\numberline {39.4.i}$3n^2+2n+1\in O(n^2)$}{37}{subsubsection.39.4.9}%
+\contentsline {subsubsection}{\numberline {39.4.j}$3n^2+2n+1\in O(n)$}{37}{subsubsection.39.4.10}%
+\contentsline {subsection}{\numberline {39.5}Angiv for hver af følgende algoritmer deres asymptotiske køretid i $O$-notation som funktion af $n$}{37}{subsection.39.5}%
+\contentsline {subsubsection}{\numberline {39.5.a}Algoritme 1}{38}{subsubsection.39.5.1}%
+\contentsline {subsubsection}{\numberline {39.5.b}Algoritme 2}{38}{subsubsection.39.5.2}%
+\contentsline {subsubsection}{\numberline {39.5.c}Algoritme 3}{38}{subsubsection.39.5.3}%
+\contentsline {subsubsection}{\numberline {39.5.d}Algoritme 4}{38}{subsubsection.39.5.4}%
+\contentsline {subsection}{\numberline {39.6}Betragt følgende algoritme til at finde det mindste tal i lsiten $L$.}{38}{subsection.39.6}%
+\contentsline {subsubsection}{\numberline {39.6.a}Hvad er algoritmens køretid}{38}{subsubsection.39.6.1}%
+\contentsline {subsubsection}{\numberline {39.6.b}Opskriv en løkke-invariant for algoritmen og bevis at den altid finder det mindste lement i $L$}{38}{subsubsection.39.6.2}%
+\contentsline {subsubsection}{\numberline {39.6.c}Omskriv algoritmen så den bruger en while-løkke i stedet for en for-løkke}{38}{subsubsection.39.6.3}%
+\contentsline {subsubsection}{\numberline {39.6.d}Bemærk at algoritmen er iterativ skriv en rekursiv version af algoritmen}{39}{subsubsection.39.6.4}%
+\contentsline {subsection}{\numberline {39.1}Hvilke af følgende udsagn er sande?}{39}{subsection.39.1}%
+\contentsline {subsubsection}{\numberline {39.1.a}$n\in O(n^3)$}{39}{subsubsection.39.1.1}%
+\contentsline {subsubsection}{\numberline {39.1.b}$n^3\in O(n^2)$}{39}{subsubsection.39.1.2}%
+\contentsline {subsubsection}{\numberline {39.1.c}$\qopname \relax o{log}(n)\in O(n)$}{39}{subsubsection.39.1.3}%
+\contentsline {subsubsection}{\numberline {39.1.d}$n\in O(n\qopname \relax o{log}(n))$}{39}{subsubsection.39.1.4}%
+\contentsline {subsubsection}{\numberline {39.1.e}$0.1n^2+n+10\in O(n)$}{39}{subsubsection.39.1.5}%
+\contentsline {subsubsection}{\numberline {39.1.f}$0.1n^2+n+10\in O(n^2)$}{40}{subsubsection.39.1.6}%
+\contentsline {subsubsection}{\numberline {39.1.g}$0.1n^2+n+10\in O(n^3)$}{40}{subsubsection.39.1.7}%
+\contentsline {subsubsection}{\numberline {39.1.h}$n^2\qopname \relax o{log}(n)\in O(n^2)$}{40}{subsubsection.39.1.8}%
+\contentsline {subsection}{\numberline {39.2}Angiv for følgende algoritme dens asymptotiske køretid i $O$-notation som funktion af $n$}{40}{subsection.39.2}%
+\contentsline {subsection}{\numberline {39.3}Husk på algoritmerne til, ciffer for ciffer, at addere eller gange to tal i hånden}{40}{subsection.39.3}%
+\contentsline {subsubsection}{\numberline {39.3.a}Hvad er køretiden for at addere to tal med $n$ cifre hver? Hvad er den karakteristiske operation?}{40}{subsubsection.39.3.1}%
+\contentsline {subsubsection}{\numberline {39.3.b}Hvad er køretiden for at gange to tal med $n$ cifre hver? Hvad er den karakteristiske operation?}{40}{subsubsection.39.3.2}%
+\contentsline {section}{\numberline {40}Uge}{41}{section.40}%
+\contentsline {subsection}{\numberline {40.1}Opskriv i pseudokode algoritmen Sequential Search ved hjælp af operationerne readNext(), isEndOfFile(), open() og close() fra interfacet sekventiel tilgang.}{41}{subsection.40.1}%
+\contentsline {subsection}{\numberline {40.2}Opskriv i pseudokode algoritmen for merge af to lister ved hjælp af operationerne readNext(), isEndOfFile(), writeNext(data), open() og close() fra interfacet sekventiel tilgang.}{41}{subsection.40.2}%
+\contentsline {subsection}{\numberline {40.3}I denne opgaver repræsenterer vi mængder som sorterede lister uden dubletter. For eksempel vil de to mængder $A = \{5, 3, 9, 8\}$ og $B =\{3, 2, 9, 10, 27\}$ være repræsenteret som disse sorterede lister: $$A = [3, 5, 8, 9]$$ $$B = [2, 3, 9, 10, 27]$$ Beskriv en algoritme til at beregne repræsentationen af forenings mængden $X\cup Y$ ud fra repræsentationen af to mængder $X$ og $Y$.}{42}{subsection.40.3}%
+\contentsline {subsection}{\numberline {40.4}Beskriv en algoritme til at flette (merge) indholdet af tre sorterede lister $A$, $B$ og $C$ sammen til en sorteret liste $D$. Hvad er køretiden for din algoritme?}{42}{subsection.40.4}%
+\contentsline {subsection}{\numberline {40.5}Givet en algoritme til at flette indholdet af tre sorterede lister $A$, $B$ og $C$ sammen til én sorteret liste $D$ (dvs. givet en løsning til opgave 4), beskriv en variant af Mergesort baseret på denne. Hvad er køretiden for din algoritme?}{42}{subsection.40.5}%
+\contentsline {subsection}{\numberline {40.6}Hvis en hashfunktion $h$ er givet ved $h(x) = x \% 11$, på hvilke pladser i tabellen ender tallene 25, 75, 125, 175?}{43}{subsection.40.6}%
+\contentsline {subsection}{\numberline {40.7}Hvis en hashfunktion h er givet ved $h(x) = x \% 11$, hvor mange pladser i hashtabellen har mere end ét element, når der indsættes elementerne 34, 65, 122 og 155?}{43}{subsection.40.7}%
+\contentsline {subsection}{\numberline {40.8}Beregn med lommeregner svaret på følgende: Hvis 3 elementer indsættes tilfældigt i et array med 7 pladser, hvad er sandsynligheden for, at der ikke er to elementer som ender på samme plads?}{43}{subsection.40.8}%
+\contentsline {subsection}{\numberline {40.9}Beregn med lommeregner følgende svaret på følgende: Hvis 5 elementer indsættes tilfældigt i et array med 12 pladser, hvad er sandsynligheden for, at der ikke er to elementer som ender på samme plads?}{44}{subsection.40.9}%
+\contentsline {subsection}{\numberline {40.1}Hvis en hashfunktion $h$ er givet ved $h(x) = x \% 17$, på hvilke pladser i tabellen ender tallene 22, 72, 122, 172?}{44}{subsection.40.1}%
+\contentsline {subsection}{\numberline {40.2}Hvis en hashfunktion $h$ er givet ved $h(x) = x \% 17$, hvor mange pladser i hashtabellen har mere end ét element, når der indsættes elementerne 40, 74, 101 og 159?}{44}{subsection.40.2}%
+\contentsline {subsection}{\numberline {40.3}Lav et Java-program med input $n$ og $k$ der for situationen hvor $n$ elementer indsættes tilfældigt i et array med k pladser finder sandsynligheden for, at der ikke er to elementer som ender på samme plads.}{45}{subsection.40.3}%
+\contentsline {subsection}{\numberline {40.4}Hvis 1000 elementer indsættes tilfældigt i et array med 1.000.000 pladser, hvad er sandsynligheden for, at der ikke er to elementer som ende på samme plads?}{45}{subsection.40.4}%
+\contentsline {subsection}{\numberline {40.5}Hvis $n$ elementer indsættes tilfældigt i et array med 1.000.000 pladser, hvor stor skal $n$ være for at sandsynligheden for, at der ikke er to elementer som ender på samme plads, bliver mindre end $\frac {1}{2}$}{45}{subsection.40.5}%
+\contentsline {subsection}{\numberline {40.6}[Udfordrende] Beskriv en algoritme, der som input tager et tal $K$ og to sorterede lister $X$ og $Y$ , hver med $n$ tal, og finder ud af, om der findes et par at tal $x \in X$ og $y \in Y$ for hvilke $x + y = K$. Din algoritme skal køre i tid $O(n)$. Du skal argumentere for køretiden og for korrektheden af svaret.}{45}{subsection.40.6}%
+\contentsline {section}{\numberline {41}Uge}{46}{section.41}%
+\contentsline {subsection}{\numberline {41.1}Exerise. $k$-Neares Neighbors: Prediction}{46}{subsection.41.1}%
+\contentsline {subsection}{\numberline {41.2}Exercise. $k$-Nearest Neighbors: Prediction}{46}{subsection.41.2}%
+\contentsline {subsection}{\numberline {41.3}Exercise. Linear Regression: Prediction}{47}{subsection.41.3}%
+\contentsline {subsection}{\numberline {41.4}Exercise. Linear Regression: Training}{48}{subsection.41.4}%
+\contentsline {subsection}{\numberline {41.5}Exercise. Logical Functions and Perceptrons}{48}{subsection.41.5}%
+\contentsline {subsubsection}{\numberline {41.5.a}OR gate}{49}{subsubsection.41.5.1}%
+\contentsline {subsubsection}{\numberline {41.5.b}NOT gate}{49}{subsubsection.41.5.2}%
+\contentsline {subsubsection}{\numberline {41.5.c}Create NAND gate}{49}{subsubsection.41.5.3}%
+\contentsline {subsection}{\numberline {41.6}Exercise. Multilayer Perceptrons}{49}{subsection.41.6}%
+\contentsline {subsection}{\numberline {41.7}Exercise. Single Layer Neural Networks: Prediction}{50}{subsection.41.7}%
+\contentsline {subsubsection}{\numberline {41.7.a}Calculate output with $\vec {x}=(5,10)$ using step function}{50}{subsubsection.41.7.1}%
+\contentsline {subsubsection}{\numberline {41.7.b}Calculate output with $\vec {x}=(5,10)$ using sigmoid function}{50}{subsubsection.41.7.2}%
+\contentsline {subsubsection}{\numberline {41.7.c}Will the two functions always result in the same result, which one is more correct?}{50}{subsubsection.41.7.3}%
+\contentsline {subsubsection}{\numberline {41.7.d}Make a plot with the predictions and find a line}{51}{subsubsection.41.7.4}%
+\contentsline {subsection}{\numberline {41.8}Exercise. Expressivness of a single layer perceptron}{51}{subsection.41.8}%
+\contentsline {subsection}{\numberline {41.1}Exercise. $k$'Nearest Neighbors: Prediction}{52}{subsection.41.1}%
+\contentsline {subsection}{\numberline {41.2}Exercise. $k$-Nearest Neighbors: Prediction}{53}{subsection.41.2}%
+\contentsline {subsection}{\numberline {41.3}Exercise. Linear Regression: Training}{53}{subsection.41.3}%
+\contentsline {subsection}{\numberline {41.4}Exercise. Feed-Forward Neural Network: Single Layer Perceptron}{54}{subsection.41.4}%
+\contentsline {subsection}{\numberline {41.5}Exercise. Single Layer Perceptrons}{55}{subsection.41.5}%
+\contentsline {subsection}{\numberline {41.6}Exercis. Logical Functions and Neural Networks}{55}{subsection.41.6}%
+\contentsline {section}{\numberline {43}uge}{55}{section.43}%
+\contentsline {subsection}{\numberline {43.1}Beregn følgende}{55}{subsection.43.1}%
+\contentsline {subsubsection}{\numberline {43.1.a}$L_3$-normen af $\vec {v}=(-2,5)$.}{55}{subsubsection.43.1.1}%
+\contentsline {subsubsection}{\numberline {43.1.b}$L_7$-normen af $\vec {v}=(4.5,-3.2)$.}{55}{subsubsection.43.1.2}%
+\contentsline {subsubsection}{\numberline {43.1.c}$L_1$-normen af $\vec {v}=(5,9)$.}{56}{subsubsection.43.1.3}%
+\contentsline {subsubsection}{\numberline {43.1.d}$L_{1.5}$-normen af $\vec {v}=(2,3)$.}{56}{subsubsection.43.1.4}%
+\contentsline {subsubsection}{\numberline {43.1.e}$L_\infty $-normen af $\vec {v}=(4.5,-3.2)$.}{56}{subsubsection.43.1.5}%
+\contentsline {subsection}{\numberline {43.2}For $\vec {p}=(1,2,3)$ og $\vec {q}=(0,5,-2)$ beregn følgende:}{56}{subsection.43.2}%
+\contentsline {subsubsection}{\numberline {43.2.a}Afstanden $\text {dist}_2(\vec {p},\vec {q})$.}{56}{subsubsection.43.2.1}%
+\contentsline {subsubsection}{\numberline {43.2.b}Afstanden $\text {dist}_3(\vec {p},\vec {q})$.}{56}{subsubsection.43.2.2}%
+\contentsline {subsubsection}{\numberline {43.2.c}Afstanden $\text {dist}_1(\vec {p},\vec {q})$.}{56}{subsubsection.43.2.3}%
+\contentsline {subsubsection}{\numberline {43.2.d}Afstanden $\text {dist}_\infty (\vec {p},\vec {q})$.}{56}{subsubsection.43.2.4}%
+\contentsline {subsection}{\numberline {43.3}Forklar figuren mudt på side 18 i Melih Kandemirs slides. Dvs. forkalr hvorfor mængden af alle punkter $\vec {q}$i en given afstand $r$ fra et punkt $\vec {q}$ (også kaldet "cirklen" om $\vec {q}$ med radius $r$) har en sådan facon, når afstanden er givet ved $\text {dis}_1$.}{57}{subsection.43.3}%
+\contentsline {subsection}{\numberline {43.3}Forklar også figuren til højre på samme side}{57}{subsection.43.3}%
+\contentsline {subsection}{\numberline {43.3}Forsøg også at forklare, hvorfor $L_{\infty }$ er et godt navn for max-normen, når man sammenligner med definitionen af $L_p$}{57}{subsection.43.3}%
+\contentsline {subsection}{\numberline {43.4}Consider the five picture given in Figure 1 each with 36 pixels.}{57}{subsection.43.4}%
+\contentsline {subsubsection}{\numberline {43.4.a}Extract from each picture a color histogram with the bins $red, orange$, and $blue$ (the white pixels are ignored)}{57}{subsubsection.43.4.1}%
+\contentsline {subsubsection}{\numberline {43.4.b}For each of the pictures $a$ to $d$, calculate their similarity to $q$ using Euclidean distance (i.e. using$\text {dist}_2$}{58}{subsubsection.43.4.2}%
+\contentsline {subsection}{\numberline {43.5}Repetér definitionen af en centroide for en cluster $C$ bestående af følgende tre punkter}{59}{subsection.43.5}%
+\contentsline {subsection}{\numberline {43.6}Check beregningen af de to centroder i figuren på side 32}{59}{subsection.43.6}%
+\contentsline {subsection}{\numberline {43.7}Consider the following data set (with 8 objects in $\mathbb {R}^2$) used in the lecture:}{59}{subsection.43.7}%
+\contentsline {subsubsection}{\numberline {43.7.a}Compute a complete partitioning with $k=2,3,4,5$ using k means method}{60}{subsubsection.43.7.1}%
+\contentsline {subsection}{\numberline {43.8}Repeter forskellen på Forgy-Lloyd og MacQueen udgaverne af k-means algoritmen, giver de to udgaver altid samme resultat.}{60}{subsection.43.8}%
+\contentsline {section}{\numberline {44}Uge}{60}{section.44}%
+\contentsline {subsection}{\numberline {44.1}Exercise}{60}{subsection.44.1}%
+\contentsline {subsection}{\numberline {44.2}Exercise}{61}{subsection.44.2}%
+\contentsline {subsection}{\numberline {44.3}Exercis}{61}{subsection.44.3}%
+\contentsline {subsection}{\numberline {44.4}Exercise}{61}{subsection.44.4}%
+\contentsline {subsection}{\numberline {44.5}Exercise}{61}{subsection.44.5}%
+\contentsline {subsection}{\numberline {44.6}Exercise}{62}{subsection.44.6}%
+\contentsline {subsection}{\numberline {44.7}Exercise}{62}{subsection.44.7}%
+\contentsline {subsection}{\numberline {44.8}Exercise}{63}{subsection.44.8}%
+\contentsline {subsection}{\numberline {44.9}Exercise}{63}{subsection.44.9}%
+\contentsline {subsection}{\numberline {44.10}Exercise}{63}{subsection.44.10}%
+\contentsline {subsection}{\numberline {44.11}Exercise}{64}{subsection.44.11}%
+\contentsline {section}{\numberline {45}uge}{64}{section.45}%
+\contentsline {subsection}{\numberline {45.1}Prove that the best online algorithm for the ski problem has a competitive ratio on $\frac {19}{10}$}{64}{subsection.45.1}%
+\contentsline {subsection}{\numberline {45.2}For the scheduele algoruthm, what are the result of $m=3$}{65}{subsection.45.2}%
+\contentsline {subsection}{\numberline {45.3}Make input for any algorithm with $m=2$ which will result in better result than $\frac {3}{2}$ of the optimum}{65}{subsection.45.3}%
+\contentsline {subsection}{\numberline {45.4}Show that the following data can be in three bins}{65}{subsection.45.4}%
+\contentsline {subsection}{\numberline {45.5}Use First Fit on the following data, where the max size is 6}{66}{subsection.45.5}%
+\contentsline {subsection}{\numberline {45.6}Why can the following result not be amde by First Fit, max size is 9}{67}{subsection.45.6}%
+\contentsline {subsection}{\numberline {45.1}Find a squence where $Ff$ performs $\frac {5}{3}$ times worse than OPT}{67}{subsection.45.1}%
+\contentsline {section}{\numberline {46}Uge}{67}{section.46}%
+\contentsline {subsection}{\numberline {46.1}Which of the following formulas are satisfiable}{67}{subsection.46.1}%
+\contentsline {subsubsection}{\numberline {46.1.a}$A\land B$}{67}{subsubsection.46.1.1}%
+\contentsline {subsubsection}{\numberline {46.1.b}$A\lor B$}{67}{subsubsection.46.1.2}%
+\contentsline {subsubsection}{\numberline {46.1.c}$A\rightarrow B$}{68}{subsubsection.46.1.3}%
+\contentsline {subsubsection}{\numberline {46.1.d}$A\land \neq A$}{68}{subsubsection.46.1.4}%
+\contentsline {subsubsection}{\numberline {46.1.e}$A\lor \neg A$}{68}{subsubsection.46.1.5}%
+\contentsline {subsection}{\numberline {46.2}Which if the following formulas are equivalent (same assignment satisfy)}{68}{subsection.46.2}%
+\contentsline {subsection}{\numberline {46.3}Convert the following formulas into CNF}{68}{subsection.46.3}%
+\contentsline {subsubsection}{\numberline {46.3.a}$\neg A\land B$}{68}{subsubsection.46.3.1}%
+\contentsline {subsubsection}{\numberline {46.3.b}$\neg A\lor B$}{68}{subsubsection.46.3.2}%
+\contentsline {subsubsection}{\numberline {46.3.c}$A\rightarrow B$}{68}{subsubsection.46.3.3}%
+\contentsline {subsubsection}{\numberline {46.3.d}$(A\rightarrow B)\land (\neg B\rightarrow A)$}{68}{subsubsection.46.3.4}%
+\contentsline {subsection}{\numberline {46.4}Breaking symmetry in N-Towers and N-Queens}{69}{subsection.46.4}%
+\contentsline {subsubsection}{\numberline {46.4.a}Write two clauses that forbid solutions where there is a queen in the irght half of the first row}{69}{subsubsection.46.4.1}%
+\contentsline {subsubsection}{\numberline {46.4.b}Instead of adding two clauses change an existing clause}{69}{subsubsection.46.4.2}%
+\contentsline {subsection}{\numberline {46.6}The formula from Slide 11 contains redundant information. FOr Example $X_{1,1}\rightarrow \neg X_{1,2}$ and $X_{1,2}\rightarrow \neg X_{1,1}$ are equivalent. Understand and remove these redundancies:}{69}{subsection.46.6}%
+\contentsline {subsubsection}{\numberline {46.6.a}Why do these redundancies occur?}{69}{subsubsection.46.6.1}%
+\contentsline {subsubsection}{\numberline {46.6.b}Identify all such redundacies!}{69}{subsubsection.46.6.2}%
+\contentsline {subsubsection}{\numberline {46.6.c}Write down a simplified formula without redundancies}{69}{subsubsection.46.6.3}%
+\contentsline {subsubsection}{\numberline {46.6.d}Convert the formula to CNF}{69}{subsubsection.46.6.4}%
+\contentsline {subsubsection}{\numberline {46.6.e}Write the formula in DIMACS format}{69}{subsubsection.46.6.5}%
+\contentsline {subsubsection}{\numberline {46.6.f}Run it in a SAT and test result}{70}{subsubsection.46.6.6}%
+\contentsline {subsection}{\numberline {46.1}Which of the following formulas are satisfiable}{70}{subsection.46.1}%
+\contentsline {subsubsection}{\numberline {46.1.a}$(A\rightarrow B) \land (B\rightarrow A)$}{70}{subsubsection.46.1.1}%
+\contentsline {subsubsection}{\numberline {46.1.b}$(A\rightarrow B) \land (B\rightarrow A)\land A$}{70}{subsubsection.46.1.2}%
+\contentsline {subsubsection}{\numberline {46.1.c}$(A\rightarrow B) \land (B\rightarrow A)\land \neg A$}{70}{subsubsection.46.1.3}%
+\contentsline {subsubsection}{\numberline {46.1.d}$(A\rightarrow B) \land (B\rightarrow A)\land (\neg A\rightarrow \neg B)\land (\neg B\rightarrow A)$}{70}{subsubsection.46.1.4}%
+\contentsline {subsection}{\numberline {46.2}Whuch of the following formulas are equivalent}{70}{subsection.46.2}%
+\contentsline {subsection}{\numberline {46.3}Convert to CNF}{71}{subsection.46.3}%
+\contentsline {subsubsection}{\numberline {46.3.a}$(\neg A\rightarrow B)\land (\neg B\rightarrow \neg A)$}{71}{subsubsection.46.3.1}%
+\contentsline {subsubsection}{\numberline {46.3.b}$A\rightarrow (\neg (B\land D))$}{71}{subsubsection.46.3.2}%
+\contentsline {subsubsection}{\numberline {46.3.c}$A\rightarrow (\neg (B\lor D))$}{71}{subsubsection.46.3.3}%
+\contentsline {subsubsection}{\numberline {46.3.d}$A\rightarrow (\neg (B\rightarrow (C\land D)))$}{71}{subsubsection.46.3.4}%
+\contentsline {section}{\numberline {47}47}{71}{section.47}%
+\contentsline {subsection}{\numberline {47.1}Given the follwing relation schema:}{71}{subsection.47.1}%
+\contentsline {subsection}{\numberline {47.2}The relation schema of task 1 together with the vald tuples define a relation instance. Visualize this relation instance as a table}{72}{subsection.47.2}%
+\contentsline {subsection}{\numberline {47.3}Given the following relation instance}{72}{subsection.47.3}%
+\contentsline {subsection}{\numberline {47.4}Given the following Entity-Relationship diagram}{72}{subsection.47.4}%
+\contentsline {subsection}{\numberline {47.5}You are given the relation instance defined in task 3}{73}{subsection.47.5}%
+\contentsline {subsection}{\numberline {47.6}You are given the following ER-diagram:}{73}{subsection.47.6}%
+\contentsline {subsection}{\numberline {47.7}Specify an SQL command that deletes formthe Moveis table all moeis that were not produced in 1994}{74}{subsection.47.7}%
+\contentsline {subsection}{\numberline {47.8}You want to retrive the titles f all moveis from the Moviestable of task3 that were produced in 1994 and directed by Quentin Tarantino. Express the query in bth theese ways:}{74}{subsection.47.8}%
+\contentsline {subsection}{\numberline {47.9}Consider the Movies table of task 3. Provide in SQL one INSERT and one DELETE command that can to be executed to change it into the following table}{75}{subsection.47.9}%
+\contentsline {subsection}{\numberline {47.10}Specify an SQL command withot set operations (UNION or EXCEPT) that retirves all movies from the Movie table, that have been produced before 1990 or that have a budget of at least 30 million USD. State the same query as an relational algebra expression}{75}{subsection.47.10}%
+\contentsline {subsection}{\numberline {47.11}Solve task 10 with SQL operations (UNION OR EXCEPT). State the same query as an relational algebra expression.}{75}{subsection.47.11}%
+\contentsline {subsection}{\numberline {47.12}Specify an SQL command without set operations (UNION or EXCEPT) that retrieves all movies from the Movie table if task 3 that either}{76}{subsection.47.12}%
+\contentsline {subsection}{\numberline {47.13}Specify an SQL command that retireves all pairs of movies from the Movies table fo task 3 that have been directed by the same director.}{76}{subsection.47.13}%
+\contentsline {subsection}{\numberline {47.14}SPecify an SQL command that retrieves all pairs of mvoes (move1, movie2) from the Movies table fo task 3 with movie1's budget exceeding the budget if movie2}{76}{subsection.47.14}%
+\contentsline {subsection}{\numberline {47.1}Which of the following statements are true?}{77}{subsection.47.1}%
+\contentsline {subsection}{\numberline {47.2}Joins are compound operator which we did not cover in the lcture. They are useful for joining (combining) the data contained in muliple relations together. In relaional algebra the conditional join operator $\bowtie _C$ (also called the $\theta $-join operator) is defined by}{77}{subsection.47.2}%
+\contentsline {subsection}{\numberline {47.3}Specify an SQL command that calculates hte conditional join given in task 2}{78}{subsection.47.3}%
+\contentsline {subsection}{\numberline {47.4}Specify an SQL command that calculates the following nested relational operation involving two conditional joins}{78}{subsection.47.4}%
+\contentsline {section}{\numberline {48}Uge}{78}{section.48}%
+\contentsline {subsection}{\numberline {48.1}Suppose in RSA the public key is $PK=(1517,13)$. Which of the following is the RSA encryption if the message $43$}{78}{subsection.48.1}%
+\contentsline {subsection}{\numberline {48.2}Is one of the following the multiplicative inverse if 49 modulo 221}{78}{subsection.48.2}%
+\contentsline {subsection}{\numberline {48.3}Which of the following sets of public key (OK) and secret key (SK) is a valid set of RSA keys (igoring the numbers are not large eneough)}{79}{subsection.48.3}%
+\contentsline {subsubsection}{\numberline {48.3.a}$PK=(91,37);SK=(91,23)$}{79}{subsubsection.48.3.1}%
+\contentsline {subsubsection}{\numberline {48.3.b}$PK=(143,77);SK=(143,53)$}{79}{subsubsection.48.3.2}%
+\contentsline {subsubsection}{\numberline {48.3.c}$PK=(231,59);SK=(231,47)$}{79}{subsubsection.48.3.3}%
+\contentsline {subsubsection}{\numberline {48.3.d}$PK=(107,25);SK=(107,30)$}{79}{subsubsection.48.3.4}%
+\contentsline {subsection}{\numberline {48.4}In the Sieve of Eratosthemes, how many lists have been created at the point where the number 13 is the first elment in the list?}{79}{subsection.48.4}%
+\contentsline {subsection}{\numberline {48.5}Consider an RSA system with ALice public key $n=1517$ and $e=17$. Note that $1517=37\cdot 41$.}{79}{subsection.48.5}%
+\contentsline {subsubsection}{\numberline {48.5.a}Find Alices secret key $d$. Use the extended Euclidean Algorithm from page 42 of the slies from the lecture}{79}{subsubsection.48.5.1}%
+\contentsline {subsubsection}{\numberline {48.5.b}Try encrypting 423. Use the algorithm for fast modular exponentiation. How many times during the recursive execution is the $if$ $k$ is odd case encountered?}{80}{subsubsection.48.5.2}%
+\contentsline {subsubsection}{\numberline {48.5.c}Decrypt the number obtained above, how many times odd and even?}{80}{subsubsection.48.5.3}%
+\contentsline {subsection}{\numberline {48.6}Why is cryptopographically secure hash function used in connection with RSA digital signatures?}{80}{subsection.48.6}%
+\contentsline {subsection}{\numberline {48.7}With RSA why would you never use the valeu 2 as one of the two primes $p$ and $q$}{80}{subsection.48.7}%
+\contentsline {subsection}{\numberline {48.8}In RSA why must the message being encrypted be a non negative integer strictly less than the modulos}{80}{subsection.48.8}%
+\contentsline {subsection}{\numberline {48.1}Try breaking these two encrypted messages}{80}{subsection.48.1}%
+\contentsline {subsubsection}{\numberline {48.1.a}Caesar cipher in english}{80}{subsubsection.48.1.1}%
+\contentsline {subsubsection}{\numberline {48.1.b}Decrypt mono-alphabetic cipher}{81}{subsubsection.48.1.2}%
+\contentsline {section}{\numberline {49}Uge}{81}{section.49}%
+\contentsline {subsection}{\numberline {49.1}Why in RSA is it necessary that $gcd(e_A,(p_A-1)(q_A-1))=1$?}{81}{subsection.49.1}%
+\contentsline {subsection}{\numberline {49.2}Draw the graph reprensenting the road system in the figure below, and write down the number of verties, the number of edges and the degree of each vertex}{81}{subsection.49.2}%
+\contentsline {subsection}{\numberline {49.3}On Twitter:}{81}{subsection.49.3}%
+\contentsline {subsubsection}{\numberline {49.3.a}John follows Joan, Jean and Jane; Joe follows Jane and Joan; Jean and Joan follow each other. Draw a diagraph illustrating these follow relationships between John, Joan, Jane and Joe.}{81}{subsubsection.49.3.1}%
+\contentsline {subsubsection}{\numberline {49.3.b}Twiter has 313 million active users (June 2016, based on Twitter Inc.) Imaging you would like to store the diagraph for the follow relationships in an adjecency matrix that uses 4 bytes per entry on your new laptop which has 64 gb of RAM. Is this feasible}{82}{subsubsection.49.3.2}%
+\contentsline {subsubsection}{\numberline {49.3.c}The municipality of Odense has a population of 200000 people. Let $G$ be the graph where the meaning of an edge from vertex $i$ to $j$ is "person $i$ is friends with person $j$". Imagine you would like to store the adjacency matrix for this graph for the relationships in a matrix representation that ises 4 bytes per entry on your new lapto which has 64 GB of RAM. Is this feasible?}{82}{subsubsection.49.3.3}%
+\contentsline {subsection}{\numberline {49.4}Consider the following six graphs (note tat the nodes do not have labels).}{82}{subsection.49.4}%
+\contentsline {subsubsection}{\numberline {49.4.a}How many walks of length 3 formthe red vertex to the green vvertex are there in graph 3?}{82}{subsubsection.49.4.1}%
+\contentsline {subsubsection}{\numberline {49.4.b}How many paths from the red vertex to the green vertex are there in graph 3}{83}{subsubsection.49.4.2}%
+\contentsline {subsubsection}{\numberline {49.4.c}How many shortest paths from the red vertex to the green vertex are there in graph 3?}{83}{subsubsection.49.4.3}%
+\contentsline {subsubsection}{\numberline {49.4.d}For each of the graphs: what is the longest of all pairwise shortest paths?}{83}{subsubsection.49.4.4}%
+\contentsline {subsubsection}{\numberline {49.4.e}Give an adjancency matrix for graph 1. Can there be different adjaccency matrices for the same graph? If so name a second adjacency matrix for graph 1. Can you find two different adjacency matrices for graph 6?}{83}{subsubsection.49.4.5}%
+\contentsline {subsection}{\numberline {49.5}Let $A$ be an adjacency matrix. In the lecture you learned that the $ij$-entry of $A^k$ is the number of different walks from vertex $i$ to vertex $j$ using exactly $k$ edges}{84}{subsection.49.5}%
+\contentsline {subsubsection}{\numberline {49.5.a}What is the interpretation of $ij$-entry of the matrix $A^1+A^2+A^3$?}{84}{subsubsection.49.5.1}%
+\contentsline {subsubsection}{\numberline {49.5.b}Complete the following sentence with the missing expression: In a graph $G$ with adjacency matrix $A$, vertex $i$ and $j$ are connected if and only if $...>0$.}{84}{subsubsection.49.5.2}%
+\contentsline {subsection}{\numberline {49.1}Find four different square roots of 1 modulo 143, i.e., numbers which multiplied by themselves modulo 143 give 1 (and which are at least 0 and less than 143). You may consider writing a simple program for finding them.}{84}{subsection.49.1}%
+\contentsline {subsection}{\numberline {49.2}Try executing the Miller-Rabin primality test on 11, 15, and 561.}{84}{subsection.49.2}%
+\contentsline {subsubsection}{\numberline {49.2.a}What types of numbers are they?}{84}{subsubsection.49.2.1}%
+\contentsline {subsubsection}{\numberline {49.2.b}Which numbers showed it was a composit?}{84}{subsubsection.49.2.2}%
+\contentsline {section}{\numberline {50}Uge}{85}{section.50}%
+\contentsline {subsection}{\numberline {50.1}Let the following weighted graph G (from the lecture slides, weights are depicted in red) be given:}{85}{subsection.50.1}%
+\contentsline {subsubsection}{\numberline {50.1.a}How many shortest path in $G$ are of length 6? Name them.}{85}{subsubsection.50.1.1}%
+\contentsline {subsubsection}{\numberline {50.1.b}How long is the longest of all pairwise shortest paths in the graph? Are there several longest shortest paths?}{85}{subsubsection.50.1.2}%
+\contentsline {subsubsection}{\numberline {50.1.c}How many paths in $G$ are of length 6? (Note: a path does not necessarily need to be a shortest path.) Name them.}{85}{subsubsection.50.1.3}%
+\contentsline {subsection}{\numberline {50.2}Assume in this exercise that all weights on edges are non-negative values.}{86}{subsection.50.2}%
+\contentsline {subsubsection}{\numberline {50.2.a}In a graph $G$ with $n=6$ vertices, how man matrix-matrix multiplication operations are needed in the worst case in order to compute the distance matrix $D$, when the method of repeated squaring is used to compute $D$}{86}{subsubsection.50.2.1}%
+\contentsline {subsubsection}{\numberline {50.2.b}In a graph $G$ with $n=200$ vertices, how many matrix-matrix multiplications are needed in the worst case in order to compute the distance matrix $D$, when the method of repeated squaring is used to compute $D$?}{86}{subsubsection.50.2.2}%
+\contentsline {subsubsection}{\numberline {50.2.c}Can yopu find a graph $G$ with $n=6$ vertices for which $W^4\neq W^5$? if so depict it}{86}{subsubsection.50.2.3}%
+\contentsline {subsubsection}{\numberline {50.2.d}Can yopu find a graph $G$ wit h$n=6$ vertices for which $W^5 \neq W^6$? if so depict it}{87}{subsubsection.50.2.4}%
+\contentsline {subsubsection}{\numberline {50.2.e}Can yopu find a graph $G$ wit h$n=6$ vertices for which $W^1= W^2$? if so depict it}{87}{subsubsection.50.2.5}%
+\contentsline {subsubsection}{\numberline {50.2.f}What is the computational runtime in order to compute the distance matrix $D$ for a graph $G$ with $n$ vertices if the method of repeated squaring is used to compute $D$?}{88}{subsubsection.50.2.6}%
+\contentsline {subsection}{\numberline {50.3}Consider the following molecule (it’s called 2,3-Dimethylhexane}{88}{subsection.50.3}%
+\contentsline {subsubsection}{\numberline {50.3.a}How many carbon atoms does this molecule have?}{88}{subsubsection.50.3.1}%
+\contentsline {subsubsection}{\numberline {50.3.b}Draw the graph $G$ corresponding to the carbon backbone of the molecule}{89}{subsubsection.50.3.2}%
+\contentsline {subsubsection}{\numberline {50.3.c}Give the edge weight matrix $W$ for the graph $G$}{89}{subsubsection.50.3.3}%
+\contentsline {subsubsection}{\numberline {50.3.d}Use your brain or the Java program ShortestPaths.java to infer the distance matrix. }{90}{subsubsection.50.3.4}%
+\contentsline {subsubsection}{\numberline {50.3.e}What is the Wiener Index $W(G)$}{90}{subsubsection.50.3.5}%
+\contentsline {subsubsection}{\numberline {50.3.f}How many shortest paths of length $3 i \rightarrow ...\rightarrow j$ with $i<j$ are in $G$}{90}{subsubsection.50.3.6}%
+\contentsline {subsubsection}{\numberline {50.3.g}Using Wiener’s method for predicting the boiling point, what is your prediction for 2,3-Dimethylhexane?}{90}{subsubsection.50.3.7}%
+\contentsline {subsection}{\numberline {50.4}Assume in this exercise that all weights on edges are non-negative values. Prove the following theorem stated on the slides}{90}{subsection.50.4}%
